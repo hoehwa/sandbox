@@ -1,4 +1,3 @@
-import React from 'react';
 import React, { useEffect } from "react";
 const CountDown = ({ hours = 0, minutes = 0, seconds = 0 }) => {
   const [paused, setPaused] = React.useState(false);

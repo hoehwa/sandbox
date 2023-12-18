@@ -1,5 +1,4 @@
-import React from 'react';
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 
 const CartItem = ({ item }) => {
   const { name, quantity, price } = item;

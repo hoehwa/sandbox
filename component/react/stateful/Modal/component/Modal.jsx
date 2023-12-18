@@ -1,4 +1,3 @@
-import React from 'react';
 import React, { useEffect } from "react";
 
 const Modal = ({ isVisible = false, title, content, footer, onClose }) => {
