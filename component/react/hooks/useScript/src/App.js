@@ -1,3 +1,4 @@
+import React from 'react';
 import useScript from "../hook/useScript";
 import Child from "../component/Child";
 import "./styles.css";

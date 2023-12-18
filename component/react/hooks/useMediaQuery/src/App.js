@@ -1,3 +1,4 @@
+import React from 'react';
 import ResponsiveText from "../component/ResponsiveText";
 import "./styles.css";
 

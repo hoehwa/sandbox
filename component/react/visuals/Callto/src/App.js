@@ -1,3 +1,4 @@
+import React from 'react';
 import Callto from "../component/Callto";
 import "./styles.css";
 

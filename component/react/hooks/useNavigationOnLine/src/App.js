@@ -1,3 +1,4 @@
+import React from 'react';
 import StatusIndicator from "../component/StatusIndicator";
 import "./styles.css";
 

@@ -1,3 +1,4 @@
+import React from 'react';
 import AutoLink from "../component/AutoLink";
 import "./styles.css";
 

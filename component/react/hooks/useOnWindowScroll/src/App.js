@@ -1,3 +1,4 @@
+import React from 'react';
 import useOnWindowScroll from "../hook/useOnWindowScroll";
 import "./styles.css";
 

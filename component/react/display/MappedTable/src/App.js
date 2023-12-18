@@ -1,3 +1,4 @@
+import React from 'react';
 import MappedTable from "../component/MappedTable";
 import './style.css';
 

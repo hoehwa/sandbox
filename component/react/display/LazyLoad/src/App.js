@@ -1,3 +1,4 @@
+import React from 'react';
 import LazyLoad from "../component/LazyLoad"
 import './style.css';
 

@@ -1,3 +1,4 @@
+import React from 'react';
 import useIsomorphicEffect from "../hook/useIsomorphicEffect";
 import "./styles.css";
 

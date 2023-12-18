@@ -1,3 +1,4 @@
+import React from 'react';
 import Switch from "../component/Swtich";
 import "./styles.css";
 

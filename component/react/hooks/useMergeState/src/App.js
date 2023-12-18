@@ -1,3 +1,4 @@
+import React from 'react';
 import useMergeState from "../hook/useMergeState";
 import "./styles.css";
 

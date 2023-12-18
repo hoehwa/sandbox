@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useRef } from "react";
 import useMutationObserver from "../hook/useMutationObserver";
 import "./styles.css";

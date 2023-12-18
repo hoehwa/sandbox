@@ -1,3 +1,4 @@
+import React from 'react';
 import OneSecondTimer from "../component/OneSecondTimer";
 import "./styles.css";
 

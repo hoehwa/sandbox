@@ -1,3 +1,4 @@
+import React from 'react';
 import useEventListener from "../hook/useEventListener";
 import { useState, useCallback } from "react";
 import "./styles.css";

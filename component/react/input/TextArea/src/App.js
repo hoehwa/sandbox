@@ -1,3 +1,4 @@
+import React from 'react';
 import TextArea from "../component/TextArea";
 import "./styles.css";
 

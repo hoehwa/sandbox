@@ -1,3 +1,4 @@
+import React from 'react';
 import SSRChecker from "../component/SSRChecker";
 import "./styles.css";
 

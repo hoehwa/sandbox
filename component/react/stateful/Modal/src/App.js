@@ -1,3 +1,4 @@
+import React from 'react';
 import React, { useState } from "react";
 import Modal from "../component/Modal";
 import "./styles.css";

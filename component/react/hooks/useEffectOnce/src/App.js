@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from "react";
 import useEffectOnce from "../hook/useEffectonce";
 import "./styles.css";

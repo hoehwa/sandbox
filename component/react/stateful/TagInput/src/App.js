@@ -1,3 +1,4 @@
+import React from 'react';
 import TagInput from "../component/TagInput";
 import "./styles.css";
 

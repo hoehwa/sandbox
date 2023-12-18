@@ -1,3 +1,4 @@
+import React from 'react';
 import MyComponent from "../component/MyComponent";
 import OtherComponent from "../component/OtherComponent";
 import "./styles.css";

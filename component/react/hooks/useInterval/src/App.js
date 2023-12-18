@@ -1,3 +1,4 @@
+import React from 'react';
 import Timer from "../component/Timer";
 import "./styles.css";
 

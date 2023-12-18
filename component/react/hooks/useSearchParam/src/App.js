@@ -1,3 +1,4 @@
+import React from 'react';
 import useSearchParam from "../hook/useSearchParam";
 import "./styles.css";
 

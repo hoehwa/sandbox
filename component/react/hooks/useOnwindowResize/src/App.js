@@ -1,3 +1,4 @@
+import React from 'react';
 import useOnWindowResize from "../hook/useOnWindowResize";
 import "./styles.css";
 

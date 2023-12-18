@@ -1,3 +1,4 @@
+import React from 'react';
 import useSessionStorage from "../hook/useSessionStorage";
 import "./styles.css";
 

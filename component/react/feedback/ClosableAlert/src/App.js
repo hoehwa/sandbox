@@ -1,3 +1,4 @@
+import React from 'react';
 import Alert from "../component/Alert";
 import "./styles.css";
 

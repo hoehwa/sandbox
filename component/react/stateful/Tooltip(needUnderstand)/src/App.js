@@ -1,3 +1,4 @@
+import React from 'react';
 import Tooltip from "../component/Tooltip";
 import "./styles.css";
 

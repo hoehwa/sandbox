@@ -1,3 +1,4 @@
+import React from 'react';
 import useUpdate from "../hooks/useUpdate";
 import "./styles.css";
 

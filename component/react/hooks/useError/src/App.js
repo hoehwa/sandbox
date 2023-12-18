@@ -1,3 +1,4 @@
+import React from 'react';
 import ErrorButton from "../component/ErrorButton";
 import "./styles.css";
 

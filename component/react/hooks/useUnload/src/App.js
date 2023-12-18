@@ -1,3 +1,4 @@
+import React from 'react';
 import useUnload from "../hook/useUnload";
 import "./styles.css";
 

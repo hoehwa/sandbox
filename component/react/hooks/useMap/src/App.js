@@ -1,3 +1,4 @@
+import React from 'react';
 import useMap from "../hook/useMap";
 import "./styles.css";
 

@@ -1,3 +1,4 @@
+import React from 'react';
 import PasswordRevealer from "../component/PasswordRevealer";
 import "./styles.css";
 

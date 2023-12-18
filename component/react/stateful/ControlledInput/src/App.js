@@ -1,3 +1,4 @@
+import React from 'react';
 import Form from "../component/Form";
 import "./styles.css";
 

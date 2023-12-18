@@ -1,3 +1,4 @@
+import React from 'react';
 import DataList from "../component/DataList";
 import './style.css';
 

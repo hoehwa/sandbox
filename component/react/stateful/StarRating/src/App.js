@@ -1,3 +1,4 @@
+import React from 'react';
 import StarRating from "../component/StarRating";
 import "./styles.css";
 

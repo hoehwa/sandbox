@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState, useEffect } from "react";
 import useDelayedState from "../hook/useDelayedState";
 import "./styles.css";

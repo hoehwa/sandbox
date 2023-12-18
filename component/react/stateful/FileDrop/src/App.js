@@ -1,3 +1,4 @@
+import React from 'react';
 import FileDrop from "../component/FileDrop";
 import "./styles.css";
 

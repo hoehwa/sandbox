@@ -1,3 +1,4 @@
+import React from 'react';
 import useHash from "../hook/useHash";
 import { useEffect } from "react";
 import "./styles.css";

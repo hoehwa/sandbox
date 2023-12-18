@@ -1,3 +1,4 @@
+import React from 'react';
 import Mounter from "../component/Mounter";
 import "./styles.css";
 

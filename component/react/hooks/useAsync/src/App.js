@@ -1,3 +1,4 @@
+import React from 'react';
 import RandomImage from "../component/RandomImage";
 import "./styles.css";
 

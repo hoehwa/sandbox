@@ -1,3 +1,4 @@
+import React from 'react';
 import MultiselectCheckbox from "../component/MultiselectCheckbox";
 import "./styles.css";
 

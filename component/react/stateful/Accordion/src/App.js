@@ -1,3 +1,4 @@
+import React from 'react';
 import Accordion from "../component/Accordion";
 import AccordionItem from "../component/AccordionItem";
 import "./styles.css";

@@ -1,3 +1,4 @@
+import React from 'react';
 import Mailto from "../component/Mailto";
 import "./styles.css";
 

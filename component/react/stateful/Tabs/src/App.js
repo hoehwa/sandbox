@@ -1,3 +1,4 @@
+import React from 'react';
 import Tabs from "../component/Tabs";
 import TabItem from "../component/TabItem";
 import "./styles.css";

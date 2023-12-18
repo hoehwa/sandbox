@@ -1,3 +1,4 @@
+import React from 'react';
 import UserCard from "../component/UserCard";
 import "./styles.css";
 

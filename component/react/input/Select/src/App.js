@@ -1,3 +1,4 @@
+import React from 'react';
 import Select from "../component/Select";
 import "./styles.css";
 

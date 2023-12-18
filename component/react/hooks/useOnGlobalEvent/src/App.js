@@ -1,3 +1,4 @@
+import React from 'react';
 import useOnGlobalEvent from "../hook/useOnGlobalEvent";
 import "./styles.css";
 
