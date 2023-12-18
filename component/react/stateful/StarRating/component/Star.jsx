@@ -1,3 +1,4 @@
+import React from 'react';
 const Star = ({ marked, starId }) => {
   return (
     <span data-star-id={starId} className="star" role="button">

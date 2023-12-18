@@ -1,3 +1,4 @@
+import React from 'react';
 import usePersistedState from "../hook/usePersistedState";
 
 const MyComponent = ({ name }) => {

@@ -1,3 +1,4 @@
+import React from 'react';
 import useComponentWillUnmount from "../hook/useComponentWillUnmount";
 
 const Unmounter = () => {

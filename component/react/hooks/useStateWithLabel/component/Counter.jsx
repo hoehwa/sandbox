@@ -1,3 +1,4 @@
+import React from 'react';
 import useStateWithLabel from "../hook/useStateWithLabel";
 
 const Counter = () => {

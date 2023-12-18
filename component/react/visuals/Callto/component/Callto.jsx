@@ -1,3 +1,4 @@
+import React from 'react';
 const Callto = ({ phone, children }) => {
   return <a href={`tel:${phone}`}>{children}</a>;
 };

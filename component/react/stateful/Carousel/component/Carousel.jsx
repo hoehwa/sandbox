@@ -1,3 +1,4 @@
+import React from 'react';
 import React, { useState, useEffect, cloneElement } from "react";
 
 const Carousel = ({ carouselItems, ...rest }) => {

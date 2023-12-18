@@ -1,3 +1,4 @@
+import React from 'react';
 const Mailto = ({ email, subject = "", body = "", children }) => {
   let params = subject || body ? "?" : "";
   if (subject) params += `subject=${encodeURIComponent(subject)}`;

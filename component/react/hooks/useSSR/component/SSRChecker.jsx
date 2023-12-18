@@ -1,3 +1,4 @@
+import React from 'react';
 import useSSR from "../hook/useSsr";
 const SSRChecker = (props) => {
   let { isBrowser, isServer } = useSSR();

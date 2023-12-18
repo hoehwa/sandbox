@@ -1,3 +1,4 @@
+import React from 'react';
 import useError from "../hook/useError";
 
 const ErrorButton = () => {

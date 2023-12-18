@@ -1,3 +1,4 @@
+import React from 'react';
 import useScript from "../hook/useScript";
 
 const script =

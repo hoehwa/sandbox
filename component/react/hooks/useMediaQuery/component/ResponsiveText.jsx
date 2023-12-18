@@ -1,3 +1,4 @@
+import React from 'react';
 import useMediaQuery from "../hook/useMediaQuery";
 
 const ResponsiveText = () => {

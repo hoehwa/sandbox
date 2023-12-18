@@ -1,3 +1,4 @@
+import React from 'react';
 import useDefault from "../hook/useDefault";
 
 const UserCard = () => {

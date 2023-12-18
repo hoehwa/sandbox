@@ -1,3 +1,4 @@
+import React from 'react';
 import useToggler from "../hook/useToggler";
 
 const Switch = () => {

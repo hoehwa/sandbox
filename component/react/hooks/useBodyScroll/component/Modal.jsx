@@ -1,3 +1,4 @@
+import React from 'react';
 import useBodyScrollLock from "../hook/useBodyScrollLock";
 
 const Modal = ({ onClose }) => {

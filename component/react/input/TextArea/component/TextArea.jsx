@@ -1,3 +1,4 @@
+import React from 'react';
 const TextArea = ({
   cols = 20,
   rows = 2,

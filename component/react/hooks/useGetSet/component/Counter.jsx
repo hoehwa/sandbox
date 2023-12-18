@@ -1,3 +1,4 @@
+import React from 'react';
 import useGetSet from "../hook/useGetSet";
 
 const Counter = () => {

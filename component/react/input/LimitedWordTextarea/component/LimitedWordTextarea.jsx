@@ -1,3 +1,4 @@
+import React from 'react';
 import React, { useEffect } from "react";
 
 const LimitedWordTextarea = ({ rows, cols, value, limit }) => {

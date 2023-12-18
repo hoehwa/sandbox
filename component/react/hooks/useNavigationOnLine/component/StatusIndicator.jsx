@@ -1,3 +1,4 @@
+import React from 'react';
 import useNavigatorOnLine from "../hook/useNavigatorOnLine";
 
 const StatusIndicator = () => {

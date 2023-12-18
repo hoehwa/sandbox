@@ -1,3 +1,4 @@
+import React from 'react';
 import React, { useEffect } from "react";
 
 const Alert = ({ isDefaultShown = false, timeout = 250, type, message }) => {

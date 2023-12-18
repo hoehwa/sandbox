@@ -1,3 +1,4 @@
+import React from 'react';
 import useComponentDidMount from "../hook/useComponentDidMount";
 
 const Mounter = () => {

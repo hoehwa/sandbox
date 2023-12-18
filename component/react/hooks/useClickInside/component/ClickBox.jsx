@@ -1,3 +1,4 @@
+import React from 'react';
 import ClickBox from "../component/ClickBox";
 import "./styles.css";
 

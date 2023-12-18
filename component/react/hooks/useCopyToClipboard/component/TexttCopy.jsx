@@ -1,3 +1,4 @@
+import React from 'react';
 import useCopyToClipboard from "../hook/useCopyToClipboard";
 
 const TextCopy = (props) => {

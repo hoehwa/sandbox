@@ -1,3 +1,4 @@
+import React from 'react';
 const MappedTable = ({ data, propertyNames }) => {
   let filteredData = data.map((v) =>
     Object.keys(v)
