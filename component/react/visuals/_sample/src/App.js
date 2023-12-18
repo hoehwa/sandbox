@@ -1,7 +1,7 @@
 import React from 'react';
 import CompName from "../component/CompName"
 import React from 'react';
-import './style.css';
+import './styles.css';
 
 export default function App() {
   return (

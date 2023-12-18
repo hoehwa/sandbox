@@ -1,6 +1,6 @@
 import React from 'react';
 import CountDown from "../component/CountDown";
-import './style.css';
+import './styles.css';
 
 export default function App() {
   return (

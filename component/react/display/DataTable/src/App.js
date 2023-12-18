@@ -1,6 +1,6 @@
 import React from 'react';
 import DataTable from "../component/DataTable";
-import './style.css';
+import './styles.css';
 
 export default function App() {
   const people = ["John", "Jesse"];	

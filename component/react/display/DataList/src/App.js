@@ -1,6 +1,6 @@
 import React from 'react';
 import DataList from "../component/DataList";
-import './style.css';
+import './styles.css';
 
 export default function App() {
   return (

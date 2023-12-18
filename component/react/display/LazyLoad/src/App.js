@@ -1,6 +1,6 @@
 import React from 'react';
 import LazyLoad from "../component/LazyLoad"
-import './style.css';
+import './styles.css';
 
 export default function App() {
   return (

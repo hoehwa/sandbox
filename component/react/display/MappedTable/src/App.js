@@ -1,6 +1,6 @@
 import React from 'react';
 import MappedTable from "../component/MappedTable";
-import './style.css';
+import './styles.css';
 
 export default function App() {
   const people = [
